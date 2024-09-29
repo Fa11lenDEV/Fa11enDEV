@@ -15,10 +15,9 @@ I'm a passionate developer with a strong focus on **Python** and **LuaU**. I enj
 - Building a **Game Boy emulator** in Python.
 - Working on **Roblox projects**, focusing on procedural map generation and optimization.
 
-<div  align="center" style="margin-bottom:100px">
-
-<img width="40%" align="center" src="https://readme-lovat.vercel.app/" />
- </div>
+<div align="center">
+  <img width="40%" src="https://readme-lovat.vercel.app/" />
+</div>
  
  &nbsp;
  &nbsp;
