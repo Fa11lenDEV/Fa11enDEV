@@ -40,7 +40,8 @@ I'm a passionate developer with a strong focus on **Python** and **LuaU**. I enj
 
 ## My Language Distribution
 
-[Visualize meu Gist aqui](<script src="https://gist.github.com/Fa11enDEV/daabbaa172a3ac6f8ef0ed2cba63270b.js"></script>)
+[Visualize minha página HTML aqui](https://<username>.github.io/<repository-name>/<file-name>.html)
+
 
 ## Contacts:
 
