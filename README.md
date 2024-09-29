@@ -1,7 +1,4 @@
-
-
 &nbsp;&nbsp;&nbsp;
-
 
 # Hello! I'm Arthur 👋
 
@@ -15,14 +12,8 @@ I'm a passionate developer with a strong focus on **Python** and **LuaU**. I enj
 - Building a **Game Boy emulator** in Python.
 - Working on **Roblox projects**, focusing on procedural map generation and optimization.
 
-
-
-
-
- &nbsp;
- &nbsp;
-
-
+&nbsp;
+&nbsp;
 
 ## My Skills
 
@@ -33,11 +24,9 @@ I'm a passionate developer with a strong focus on **Python** and **LuaU**. I enj
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![Luau](https://img.shields.io/badge/Luau-FF677D?style=for-the-badge&logo=lua&logoColor=white)&nbsp;
 
-
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Secondary Stack:
-
 
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)&nbsp;
 
@@ -46,9 +35,12 @@ I'm a passionate developer with a strong focus on **Python** and **LuaU**. I enj
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 
+&nbsp;
+&nbsp;
 
-&nbsp;
-&nbsp;
+## My Language Distribution
+
+![Most Used Languages](https://svgshare.com/i/uKq.svg)
 
 ## Contacts:
 
@@ -56,11 +48,6 @@ I'm a passionate developer with a strong focus on **Python** and **LuaU**. I enj
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
 </a>
 
-
-
 </div>&nbsp;&nbsp;
- 
 
-  
-  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
