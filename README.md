@@ -52,8 +52,8 @@ I'm a passionate developer with a strong focus on **Python** and **LuaU**. I enj
 
 ## Contacts:
 
-<div> 
-<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+<a href="https://discord.gg/2CvSDH2jmz" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
 </a>
 
 
