@@ -3,16 +3,17 @@
 &nbsp;&nbsp;&nbsp;
 
 
-Hello! I'm Arthur 👋
-I'm a passionate developer with a strong focus on Python and LuaU. I enjoy creating efficient, creative solutions, whether it's in game development or building automation and AI tools.
+# Hello! I'm Arthur 👋
 
-🛠️ Technologies I Use:
-Python: For scripting, automation, Discord bots, and AI tools.
-LuaU: Game development on Roblox and creating advanced features to optimize player experience.
-🔥 What I'm working on:
-Building a Game Boy emulator in Python.
-Developing the ViaLegacy addon to support all Minecraft server versions.
-Working on Roblox projects, focusing on procedural map generation and optimization.
+I'm a passionate developer with a strong focus on **Python** and **LuaU**. I enjoy creating efficient, creative solutions, whether it's in game development or building automation and AI tools.
+
+## 🛠️ Technologies I Use:
+- **Python**: For scripting, automation, Discord bots, and AI tools.
+- **LuaU**: Game development on Roblox and creating advanced features to optimize player experience.
+
+## 🔥 What I'm working on:
+- Building a **Game Boy emulator** in Python.
+- Working on **Roblox projects**, focusing on procedural map generation and optimization.
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
