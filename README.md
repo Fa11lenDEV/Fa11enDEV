@@ -16,8 +16,11 @@ I'm a passionate developer with a strong focus on **Python** and **LuaU**. I enj
 - Working on **Roblox projects**, focusing on procedural map generation and optimization.
 
 <div align="center">
-  <img width="40%" src="https://readme-lovat.vercel.app/" />
+  <a href="https://readme-lovat.vercel.app/">
+    <img width="40%" src="https://readme-lovat.vercel.app/" alt="Top Languages" />
+  </a>
 </div>
+
  
  &nbsp;
  &nbsp;
