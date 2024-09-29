@@ -40,11 +40,7 @@ I'm a passionate developer with a strong focus on **Python** and **LuaU**. I enj
 
 ## My Language Distribution
 
-## Gráfico Interativo
-
-Você pode visualizar o gráfico interativo através do link abaixo:
-
-[Visualizar Gráfico](https://readme-lovat.vercel.app/)
+![Gráfico Interativo]([https://i.pinimg.com/your-image-url.jpg](https://i.pinimg.com/originals/b0/71/0b/b0710b4fc17502972fd2cead0c06bede.jpg))
 
 
 
