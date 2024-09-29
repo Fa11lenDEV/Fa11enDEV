@@ -44,7 +44,8 @@ I'm a passionate developer with a strong focus on **Python** and **LuaU**. I enj
 
 Você pode visualizar o gráfico interativo através do link abaixo:
 
-[Visualizar Gráfico]([https://<seu-usuario>.github.io/<seu-repositorio>/](https://github.com/Fa11enDEV/readme))
+[Visualizar Gráfico](https://readme-lovat.vercel.app/)
+
 
 
 
