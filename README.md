@@ -40,8 +40,8 @@ I'm a passionate developer with a strong focus on **Python** and **LuaU**. I enj
 
 ## My Language Distribution
 
-- **Python**: ████████████████████████████ 60%
-- **LuaU**: █████████████████████████ 40%
+- **LuaU**: ████████████████████████████ 60%
+- **Python**: █████████████████████████ 40%
 - **HTML**: ██████████████ 20%
 - **CSS**: ██████████████ 20%
 
