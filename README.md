@@ -50,6 +50,9 @@ I'm a passionate developer with a strong focus on **Python** and **LuaU**. I enj
 
 - **HTML**: ██████████████ 20%
 - **CSS**: ██████████████ 20%
+
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Guil&theme=dracula)](https://github.com/Fa11enDEV/github-readme-stats)
 
 
