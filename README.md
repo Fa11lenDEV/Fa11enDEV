@@ -37,7 +37,7 @@ I'm a passionate developer with a strong focus on **Python** and **LuaU**. I enj
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Guil&theme=dracula)](https://github.com/Fa11enDEV/github-readme-stats)
+
 &nbsp;
 &nbsp;
 
@@ -50,6 +50,11 @@ I'm a passionate developer with a strong focus on **Python** and **LuaU**. I enj
 
 - **HTML**: ██████████████ 20%
 - **CSS**: ██████████████ 20%
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Guil&theme=dracula)](https://github.com/Fa11enDEV/github-readme-stats)
+
+
+
+<img width="500px" src="https://github-readme-stats.vercel.app/api/wakatime?username=fa11lenDEV&langs_count=8&layout=compact&hide_border=true&bg_color=282a36&title_color=fdaaaa&text_color=fdaaaa&icon_color=fdaaaa" alt="langs">
 
 
 
