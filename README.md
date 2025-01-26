@@ -34,7 +34,7 @@ I'm a passionate developer with a strong focus on **Python** and **LuaU**. I enj
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Guil&theme=dracula)](https://github.com/Fa11enDEV/github-readme-stats)
 &nbsp;
 &nbsp;
 
