@@ -53,7 +53,7 @@ I'm a passionate developer with a strong focus on **Python** and **LuaU**. I enj
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Guil&theme=dracula)](https://github.com/Fa11enDEV/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fa11enDEV&theme=dracula)](https://github.com/Fa11enDEV/github-readme-stats)
 
 
 
