@@ -50,7 +50,7 @@ I'm a passionate developer with a strong focus on **Python** and **LuaU**. I enj
 
 ## 🧠 My Language Distribution
 
-![Distribuição de Linguagens](https://quickchart.io/chart?c={type:'pie',data:{labels:['Luau','HTML','CSS','Java','JavaScript','TypeScript','Python'],datasets:[{data:[90,50,50,35,30,25,10]}]},options:{plugins:{legend:{position:'right'}}}})
+![Distribuição de Linguagens](https://quickchart.io/chart?c={type:'pie',data:{labels:['Luau','HTML','CSS','Java','JavaScript','TypeScript','Python', 'C'],datasets:[{data:[90,50,50,35,30,25,10, 10]}]},options:{plugins:{legend:{position:'right'}}}})
 
 
 ## 🛠️ Top Languages
