@@ -53,7 +53,7 @@ I'm a passionate developer with a strong focus on **Python** and **LuaU**. I enj
 ![Distribuição de Linguagens](https://quickchart.io/chart?c={type:'pie',data:{labels:['Luau','HTML','CSS','Java','JavaScript','TypeScript','Python'],datasets:[{data:[90,50,50,35,30,25,10]}]},options:{plugins:{legend:{position:'right'}}}})
 
 
-
+## 🛠️ Top Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fa11enDEV&theme=dracula)](https://github.com/Fa11enDEV/github-readme-stats)
 
 
