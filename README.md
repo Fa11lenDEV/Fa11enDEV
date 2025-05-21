@@ -34,6 +34,7 @@ I'm a passionate developer with a strong focus on **Python** and **LuaU**. I enj
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 
 #### Workstation Tools:
 
@@ -50,7 +51,7 @@ I'm a passionate developer with a strong focus on **Python** and **LuaU**. I enj
 
 ## 🧠 My Language Distribution
 
-![Distribuição de Linguagens](https://quickchart.io/chart?c={type:'pie',data:{labels:['Luau','HTML','CSS','Java','JavaScript','TypeScript','Python', 'C'],datasets:[{data:[90,50,50,35,30,25,10, 10]}]},options:{plugins:{legend:{position:'right'}}}})
+<img src="https://quickchart.io/chart?c={type:'pie',data:{labels:['Luau','HTML','CSS','Java','JavaScript','TypeScript','Python','C'],datasets:[{data:[90,50,50,35,30,25,10,10]}]},options:{plugins:{legend:{position:'right'}}}}" alt="Distribuição de Linguagens" />
 
 
 ## 🛠️ Top Languages
