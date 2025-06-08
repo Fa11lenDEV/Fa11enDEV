@@ -53,7 +53,7 @@ I'm a passionate developer with a strong focus on **Python** and **LuaU**. I enj
 
 
 ## 🛠️ Top Languages
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fa11enDEV&theme=dracula)](https://github.com/Fa11enDEV/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fa11lenDEV&theme=dracula)](https://github.com/Fa11enDEV/github-readme-stats)
 
 ### 📊 More Recent Languages (Wakatime)
 <img width="500px" src="https://github-readme-stats.vercel.app/api/wakatime?username=fa11lenDEV&langs_count=8&layout=compact&hide_border=true&bg_color=282a36&title_color=fdaaaa&text_color=fdaaaa&icon_color=fdaaaa" alt="Recent Languages">
